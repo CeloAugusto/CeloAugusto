@@ -13,6 +13,9 @@
 ![CeloAugusto's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=celoaugusto&show_icons=true&theme=react)
 
 ---
+# Work with:
+Some topics I worked on a long time ago, so don't consider me an expert. My repos will give a better reference.
+
 ![Languages:](https://img.shields.io/badge/Languages:-%23323330.svg?&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
